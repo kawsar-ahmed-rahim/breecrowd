@@ -19,9 +19,6 @@ int main() {
           cout << "O JOGO DUROU " << "24 " << "HORA(S)" << endl;
 
  }
- 
-     
- 
     return 0;
 }
     
