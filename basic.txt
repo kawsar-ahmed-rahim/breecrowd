@@ -8,4 +8,4 @@ int main() {
  
     return 0;
 }
- g++ basic.cpp && ./a.out
+g++ basic.cpp -o a.exe; if ($?) { .\a.exe }
